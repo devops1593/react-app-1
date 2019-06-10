@@ -23,7 +23,7 @@ function App() {
 <h1>hello world</h1>
     <h2>hello guys</h2>
 <p>A wiki is a knowledge base website on which users collaboratively modify content and structure directly from the web browser. In a typical wiki, text is written ..</p>
-
+<p>DevOps is a set of software development practices that combines software development (Dev) and information technology operations (Ops) to shorten the ...</p>
     </div>
   );
 }
