@@ -19,7 +19,9 @@ function App() {
           Learn React
         </a>
       </header> */}
+    
 <h1>hello world</h1>
+    <h2>hello guys</h2>
 <p>A wiki is a knowledge base website on which users collaboratively modify content and structure directly from the web browser. In a typical wiki, text is written ..</p>
 
     </div>
